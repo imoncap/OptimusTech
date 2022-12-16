@@ -1,0 +1,25 @@
+.sobre {
+    text-align: center;
+    font-weight: 600;
+}
+
+.sobre__titulo {
+    color: var(--vermelho);
+    display: block;
+    padding-top: 5em;
+}
+
+.sobre__porque {
+    font-size: 48px;
+    color: var(--escuro);
+    margin: 1em 0;
+}
+
+.sobre__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    width: 42%;
+    margin: 0 auto;
+    line-height: 30px;
+}
