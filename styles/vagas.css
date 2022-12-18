@@ -1,0 +1,32 @@
+.vagas {
+    width: 50%;
+    margin: 2em auto;
+}
+
+.vagas__titulo {
+    font-size: 20px;
+    line-height: 30px;
+    color: var(--escuro);
+    padding-bottom: 1em;
+    padding-top: 5em;
+}
+
+.vagas__vaga {
+    border: 1px solid #eaecf0;
+    border-radius: 16px;
+    padding: 1.5em;
+    margin-top: 1em;
+}
+
+.vaga__titulo {
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--escuro);
+    margin-bottom: 1.5em;
+}
+
+.vaga__informacoes {
+    line-height: 24px;
+    color: var(--cinza-claro);
+    margin-top: 1.5em;
+}
