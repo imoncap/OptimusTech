@@ -2,6 +2,7 @@
     background-color: #F9FAFB;
     margin-top: 5em;
     text-align: center;
+    padding: 5em;
 }
 
 .rodape__titulo {
@@ -9,6 +10,7 @@
     font-weight: 600;
     line-height: 44px;
     color: var(--escuro);
+    margin: 1em 0;
 }
 
 .rodape__texto {
@@ -16,6 +18,7 @@
     font-weight: 400;
     line-height: 30px;
     color: var(--cinza);
+    margin-bottom: 2em;
 }
 
 .rodape__cadastro {
@@ -25,8 +28,12 @@
 
 .rodape__cadastro__email {
     border-radius: 12px;
-    border-color: var(--cinza-claro);
+    border: 1px solid #D0D5DD;
+    font-weight: 400;
     width: 15%;
+    line-height: 24px;
+    padding-left: 1em;
+    font-size: 18px;
 }
 
 .rodape__cadastro__botao {
@@ -41,4 +48,5 @@
 .rodape__direitos {
     font-weight: 400;
     color: var(--cinza-claro);
+    margin-top: 3em;
 }
